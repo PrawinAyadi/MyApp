@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "Subtraction is " + result, Toast.LENGTH_LONG).show();
             }
         });
-//wjiovn fnvoefvk noirn  noenk  neofk vfoneokke rn
     }
 }
 
